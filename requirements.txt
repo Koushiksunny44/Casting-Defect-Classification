@@ -1,0 +1,14 @@
+# Core deep learning
+tensorflow>=2.15
+# Numerics & data
+numpy
+pandas
+# Plotting
+matplotlib
+# Metrics
+scikit-learn
+# Explainability
+shap
+# Notebook
+jupyter
+ipython
