@@ -1,0 +1,4 @@
+Class,Train images,Test images,Total
+def_front,3758,453,4211
+ok_front,2875,262,3137
+TOTAL,6633,715,7348

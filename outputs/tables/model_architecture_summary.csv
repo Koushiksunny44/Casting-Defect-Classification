@@ -1,0 +1,4 @@
+Model,Total params,Trainable params,Non-trainable params,Layers
+Custom CNN,110018,110018,0,15
+MobileNetV2,2260546,2562,2257984,9
+ResNet50,23591810,4098,23587712,9
